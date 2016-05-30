@@ -27,7 +27,7 @@
 	},
 	"main": "index",
 	"dependencies": {
-		"nodetime": "0.6.8",
+		"nodetime": "0.4.7",
 		"clusterhub": "0.2.1",
 		"connect": "2.7.4",
 		"connect-route": "0.1.3",
